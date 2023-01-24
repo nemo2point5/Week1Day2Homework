@@ -1,0 +1,15 @@
+.flex{
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: black;
+
+}
+
+.flex2{
+    text-align: center;
+    flex-direction: row;
+    
+}
